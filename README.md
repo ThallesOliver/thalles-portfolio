@@ -1,6 +1,6 @@
 # Portfólio · Thalles Oliveira
 
-Site pessoal de Thalles Oliveira, desenvolvedor à frente da [Zentra](https://www.zentrasistemas.com.br/).
+Site pessoal de Thalles Oliveira, desenvolvedor e co-fundador da [Zentra](https://www.zentrasistemas.com.br/).
 
 **No ar:** https://thalles-oliveira.vercel.app
 
