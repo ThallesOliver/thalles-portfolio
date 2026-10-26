@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" role="img">
+  <defs>
+    <linearGradient id="top" x1="42" y1="62" x2="354" y2="126" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1234db"/><stop offset=".5" stop-color="#0874f7"/><stop offset="1" stop-color="#58f1f5"/>
+    </linearGradient>
+    <linearGradient id="bottom" x1="45" y1="278" x2="358" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39e5f2"/><stop offset=".47" stop-color="#076cf2"/><stop offset="1" stop-color="#112bd6"/>
+    </linearGradient>
+    <linearGradient id="diagonal" x1="66" y1="331" x2="333" y2="67" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58edf0"/><stop offset=".35" stop-color="#0879fb"/><stop offset=".7" stop-color="#0757ed"/><stop offset="1" stop-color="#69f7f4"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="80" y1="285" x2="315" y2="77" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a0ffff" stop-opacity=".58"/><stop offset=".48" stop-color="#a0ffff" stop-opacity="0"/><stop offset="1" stop-color="#e1ffff" stop-opacity=".65"/>
+    </linearGradient>
+  </defs>
+  <path d="M86 95H314" stroke="url(#top)" stroke-width="88" stroke-linecap="round"/>
+  <path d="M86 305H314" stroke="url(#bottom)" stroke-width="88" stroke-linecap="round"/>
+  <path d="M96 302 306 98" stroke="#063ccb" stroke-width="95" stroke-linecap="round" opacity=".38"/>
+  <path d="M96 302 306 98" stroke="url(#diagonal)" stroke-width="88" stroke-linecap="round"/>
+  <path d="M96 302 306 98" stroke="url(#shine)" stroke-width="84" stroke-linecap="round" opacity=".26"/>
+</svg>
